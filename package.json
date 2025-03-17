@@ -1,0 +1,23 @@
+{
+  "name": "namaste-javascript",
+  "version": "1.0.0",
+  "description": "This is basics of react repo",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush505/React-Basics.git"
+  },
+  "author": "Ayush Katiyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayush505/React-Basics/issues"
+  },
+  "homepage": "https://github.com/ayush505/React-Basics#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "parsel": "^0.3.0"
+  }
+}
